@@ -1,0 +1,23 @@
+# Python 虚拟环境（974MB，绝不该进仓库）
+.venv/
+venv/
+env/
+
+# 数据集（MNIST 65MB，可重新下载）
+data/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# 训练产物（按需保留，这里选择提交 loss 曲线）
+# 如需忽略取消下面注释
+# *.pth
+# *.pt
