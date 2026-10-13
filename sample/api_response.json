@@ -1,0 +1,20 @@
+{
+  "id": "chatcmpl-9x2k4m",
+  "model": "deepseek-chat",
+  "created": 1786000000,
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "RAG 的核心是先检索、再生成：检索负责找资料，生成负责根据资料回答。"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 42,
+    "completion_tokens": 28,
+    "total_tokens": 70
+  }
+}

@@ -21,3 +21,6 @@ __pycache__/
 # 如需忽略取消下面注释
 # *.pth
 # *.pt
+
+# PyCharm / JetBrains 项目文件
+.idea/
