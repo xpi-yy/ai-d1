@@ -24,3 +24,8 @@ __pycache__/
 
 # PyCharm / JetBrains 项目文件
 .idea/
+
+# 密钥文件（绝对不允许提交）
+.env
+.env.local
+*.key
