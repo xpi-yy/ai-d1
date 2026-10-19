@@ -29,3 +29,6 @@ __pycache__/
 .env
 .env.local
 *.key
+
+# Jupyter 本地链接（含 token，不提交）
+.jupyter_url.txt
